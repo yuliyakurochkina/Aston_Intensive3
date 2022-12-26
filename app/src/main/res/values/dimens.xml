@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_width">170dp</dimen>
+    <dimen name="margin_top_activity_main">70dp</dimen>
+    <!--    Task1-->
+    <dimen name="flag_width">160dp</dimen>
+    <dimen name="flag_height">79dp</dimen>
+    <dimen name="flag_margin_top">5dp</dimen>
+    <dimen name="stripe_width">10dp</dimen>
+    <dimen name="flag_width_height_switzerland">100dp</dimen>
+    <dimen name="stripe_length">70dp</dimen>
+    <!--    Task1Land-->
+    <dimen name="flag_width_land">80dp</dimen>
+    <dimen name="flag_height_land">34dp</dimen>
+    <dimen name="flag_margin_top_land">2dp</dimen>
+    <dimen name="stripe_width_land">5dp</dimen>
+    <dimen name="flag_width_height_switzerland_land">50dp</dimen>
+    <dimen name="stripe_length_land">35dp</dimen>
+    <!--    Task2-->
+    <dimen name="task2_margin_top">10dp</dimen>
+    <dimen name="task2_margin_bottom">20dp</dimen>
+    <dimen name="task2_marginsSE">20dp</dimen>
+    <!--    Task2Land-->
+    <dimen name="task2_margin_top_land">5dp</dimen>
+    <dimen name="task2_margin_bottom_land">10dp</dimen>
+    <dimen name="task2_marginsSE_land">10dp</dimen>
+</resources>

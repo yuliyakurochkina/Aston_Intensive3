@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aston_Intensive3</string>
+    <string name="task2_pictures">Task2:Pictures</string>
+    <string name="task1_flags">Task1:Flags</string>
+    <string name="homework3">Homework3</string>
+    <string name="https_picsum_photos_200_300">https://picsum.photos/200</string>
+    <string name="enter_a_link">Enter a link</string>
+    <string name="toast_message">Try typing again</string>
+    <string name="https_picsum_photos_200">https://picsum.photos/200</string>
+</resources>
